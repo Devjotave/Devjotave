@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Olá, eu sou João Vitor Cardoso de Paula! 👋
@@ -7,13 +6,11 @@
 **💡 Tecnologia, aprendizado contínuo e projetos práticos**
 
 <a href="https://www.linkedin.com/in/joaovitorcardosodepaula/" title="Conectar no LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="Logotipo LinkedIn" />
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat" height="24" alt="LinkedIn | Conectar" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /><img src="https://img.shields.io/badge/Conectar-0A66C2?style=for-the-badge" height="28" alt="Conectar" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:joaovotorcardosopaula@gmail.com" title="Enviar e-mail">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Logotipo Gmail" />
-  <img src="https://img.shields.io/badge/E--mail-Contato-374151?style=flat" height="24" alt="E-mail | Contato" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Gmail" /><img src="https://img.shields.io/badge/Contato-374151?style=for-the-badge" height="28" alt="Contato" />
 </a>
 
 </div>
@@ -47,9 +44,7 @@ Projeto pessoal **em desenvolvimento**, criado como parte do meu aprendizado em 
 
 O projeto utiliza **Java, Spring Boot, React, TypeScript e SQL Server**. Também exploro ferramentas como Docker e GitHub Actions durante seu desenvolvimento, ainda em processo de aprendizado.
 
-🔗 **[Conhecer o NexTask no repositório público de portfólio](https://github.com/Devjotave/nextask-portfolio)**
-
-> Esta é a versão pública do projeto para apresentação no portfólio. O repositório original de desenvolvimento permanece privado.
+🔗 [**Conhecer o NexTask no GitHub**](https://github.com/Devjotave/nextask-portfolio)
 
 ### 💈 [Sistema de Barbearia — Projeto acadêmico](https://github.com/Devjotave/barbearia-tpi2)
 
