@@ -33,7 +33,7 @@ Atualmente, aprofundo meus estudos em **Java, POO, Estruturas de Dados e Banco d
 
 ## 🚀 Projetos
 
-### 🗂️ NexTask — Gerenciamento de projetos e tarefas
+### 🗂️ [NexTask — Gerenciamento de projetos e tarefas](https://github.com/Devjotave/nextask-portfolio)
 
 Projeto pessoal **em desenvolvimento** que utilizo para estudar a construção de aplicações web, a integração entre frontend, backend e banco de dados, além de conceitos de APIs REST, autenticação e testes. O projeto envolve Java, Spring Boot, React, TypeScript e SQL Server.
 
