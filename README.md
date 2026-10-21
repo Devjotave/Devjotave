@@ -33,11 +33,15 @@ Atualmente, aprofundo meus estudos em **Java, POO, Estruturas de Dados e Banco d
 
 ## 🚀 Projetos
 
-### 🗂️ [NexTask — Gerenciamento de projetos e tarefas](https://github.com/Devjotave/nextask-portfolio)
+### 🗂️ [NexTask — Plataforma de gerenciamento de projetos e tarefas](https://github.com/Devjotave/nextask-portfolio)
 
-Projeto pessoal **em desenvolvimento** que utilizo para estudar a construção de aplicações web, a integração entre frontend, backend e banco de dados, além de conceitos de APIs REST, autenticação e testes. O projeto envolve Java, Spring Boot, React, TypeScript e SQL Server.
+Projeto pessoal **em desenvolvimento**, criado como parte do meu aprendizado em desenvolvimento de software. A aplicação reúne gerenciamento de projetos e tarefas, quadro Kanban e recursos de colaboração, permitindo estudar a integração entre frontend, backend e banco de dados, além de APIs REST, autenticação e testes.
 
-> Repositório privado no momento; projeto utilizado para estudo e evolução técnica.
+O projeto utiliza **Java, Spring Boot, React, TypeScript e SQL Server**. Também exploro ferramentas como Docker e GitHub Actions durante seu desenvolvimento, ainda em processo de aprendizado.
+
+🔗 **[Conhecer o NexTask no repositório público de portfólio](https://github.com/Devjotave/nextask-portfolio)**
+
+> Esta é a versão pública do projeto para apresentação no portfólio. O repositório original de desenvolvimento permanece privado.
 
 ### 💈 [Sistema de Barbearia — Projeto acadêmico](https://github.com/Devjotave/barbearia-tpi2)
 
@@ -57,10 +61,16 @@ Protótipo de sistema administrativo para uma barbearia, com módulos voltados a
 - **LinkedIn:** [joaovitorcardosodepaula](https://www.linkedin.com/in/joaovitorcardosodepaula/)
 - **E-mail:** [joaovotorcardosopaula@gmail.com](mailto:joaovotorcardosopaula@gmail.com)
 
+
 ---
 
 <div align="center">
 
 *Aprendendo, praticando e evoluindo a cada projeto.*
 
+**“Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.”**
+
+*Provérbios 16:3*
+
 </div>
+
