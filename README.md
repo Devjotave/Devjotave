@@ -58,8 +58,8 @@ Protótipo de sistema administrativo para uma barbearia, com módulos voltados a
 
 ## 📫 Contato
 
-- **LinkedIn:** [joaovitorcardosodepaula](https://www.linkedin.com/in/joaovitorcardosodepaula/)
-- **E-mail:** [joaovotorcardosopaula@gmail.com](mailto:joaovotorcardosopaula@gmail.com)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Ícone do LinkedIn" /> **LinkedIn:** [joaovitorcardosodepaula](https://www.linkedin.com/in/joaovitorcardosodepaula/)
+- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Ícone de e-mail" /> **E-mail:** [joaovotorcardosopaula@gmail.com](mailto:joaovotorcardosopaula@gmail.com)
 
 
 ---
