@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Olá, eu sou João Vitor Cardoso de Paula! 👋
@@ -5,8 +6,15 @@
 **🎓 Estudante de Sistemas de Informação | Universidade de Uberaba (UNIUBE)**  
 **💡 Tecnologia, aprendizado contínuo e projetos práticos**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitorcardosodepaula/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-374151?style=flat&logo=gmail&logoColor=white)](mailto:joaovotorcardosopaula@gmail.com)
+<a href="https://www.linkedin.com/in/joaovitorcardosodepaula/" title="Conectar no LinkedIn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="Logotipo LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat" height="24" alt="LinkedIn | Conectar" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:joaovotorcardosopaula@gmail.com" title="Enviar e-mail">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Logotipo Gmail" />
+  <img src="https://img.shields.io/badge/E--mail-Contato-374151?style=flat" height="24" alt="E-mail | Contato" />
+</a>
 
 </div>
 
@@ -61,7 +69,6 @@ Protótipo de sistema administrativo para uma barbearia, com módulos voltados a
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="Ícone do LinkedIn" /> **LinkedIn:** [joaovitorcardosodepaula](https://www.linkedin.com/in/joaovitorcardosodepaula/)
 - <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" alt="Ícone de e-mail" /> **E-mail:** [joaovotorcardosopaula@gmail.com](mailto:joaovotorcardosopaula@gmail.com)
 
-
 ---
 
 <div align="center">
@@ -73,4 +80,3 @@ Protótipo de sistema administrativo para uma barbearia, com módulos voltados a
 *Provérbios 16:3*
 
 </div>
-
