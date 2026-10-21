@@ -6,11 +6,11 @@
 **💡 Tecnologia, aprendizado contínuo e projetos práticos**
 
 <a href="https://www.linkedin.com/in/joaovitorcardosodepaula/" title="Conectar no LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn" /><img src="https://img.shields.io/badge/Conectar-0A66C2?style=for-the-badge" height="28" alt="Conectar" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:joaovotorcardosopaula@gmail.com" title="Enviar e-mail">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Gmail" /><img src="https://img.shields.io/badge/Contato-374151?style=for-the-badge" height="28" alt="Contato" />
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Gmail" />
 </a>
 
 </div>
